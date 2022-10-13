@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Lora', serif;
-    background: linear-gradient(#f5cc00, #bbb732);
+    background: linear-gradient(#cdad2a, #65743c);
     color: #ffffff;
 }
 
@@ -12,12 +12,12 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 200px;
     border-radius: 50%;
-    border: 6px solid #bbb732;
+    border: 6px solid #65743c;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #bbb732;
+    background: #65743c;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #bbb732;
+    background: #65743c;
     padding: 5px 10px;
     border-radius: 5px;
 }
